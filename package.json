@@ -1,0 +1,9 @@
+{
+  "author": "",
+  "license": "ISC",
+  "description": "golang demo project",
+  "files": [
+    "helloworld.darwin",
+    "helloworld.linux"
+  ]
+}
